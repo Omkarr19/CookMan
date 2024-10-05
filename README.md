@@ -1,3 +1,4 @@
+This was my first project at my Industrial Training so I tried to make exactly same app I saw on YouTube, (https://youtu.be/cdnneQjsoT0?si=iZJenYgBT6yKbG9w) this was an Achievement for me!
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
