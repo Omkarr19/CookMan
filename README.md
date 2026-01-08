@@ -1,3 +1,5 @@
+#this is my first ever project, build during industrial training, I have use Code with nomi's Video as reference for this project.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
