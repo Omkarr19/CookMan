@@ -1,4 +1,5 @@
-#this is my first ever project, build during industrial training, I have use Code with nomi's Video as reference for this project.
+#this is my first ever project, build during industrial training, I have used Code with nomi's Video as reference for this project.
+my FIRST project built with React Native! This app offers a wide variety of recipes across all categories, making it easy to find everything from quick snacks to gourmet meals. I came across an app design online that really stood out to me, and I challenged myself to replicate that same interface in Cookman. The result? A clean, visually stunning interface that’s intuitive for both beginners and seasoned cooks alike
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
